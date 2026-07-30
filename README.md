@@ -12,7 +12,7 @@ This client also has a plugin for setting up stereo audio on Discord and offers 
 
 Telegram x News: https://t.me/RaadCord
 
-RaadCord Website : https://illegalcord.netlify.app/
+RaadCord Website : https://RaadCord.netlify.app/
 
 ### Included Plugins
 

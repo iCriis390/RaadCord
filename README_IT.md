@@ -12,7 +12,7 @@ Questo client include anche un plugin per configurare l’audio stereo su Discor
 
 Telegram x News: https://t.me/RaadCord
 
-Sito RaadCord : https://illegalcord.mintlify.site/
+Sito RaadCord : https://RaadCord.mintlify.site/
 
 ### Plugin Inclusi
 

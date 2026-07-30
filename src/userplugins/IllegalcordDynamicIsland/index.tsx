@@ -70,7 +70,7 @@ const IslandType = {
 
 type IslandType = typeof IslandType[keyof typeof IslandType];
 
-const cl = classNameFactory("vc-illegalcord-dynamic-island-");
+const cl = classNameFactory("vc-RaadCord-dynamic-island-");
 const NOTIFICATION_DURATION = 5000;
 const RUNTIME_KEY = Symbol.for("RaadCordDynamicIsland.runtime");
 const SPOTIFY_IDLE_DURATION = 60_000;

@@ -18,7 +18,7 @@ import { closeModal, Modal, openModal } from "@webpack/common";
 
 const TELEGRAM_URL = "https://t.me/RaadCord";
 const GITHUB_URL = "https://github.com/iCriis390/RaadCord";
-const cl = classNameFactory("vc-illegalcord-announcements-");
+const cl = classNameFactory("vc-RaadCord-announcements-");
 const DISCORD_LOCK_UNLOCKED_EVENT = "vencord-discordlock-unlocked";
 
 let hasOpened = false;

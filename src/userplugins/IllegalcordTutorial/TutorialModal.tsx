@@ -19,7 +19,7 @@ import { type Language, RECOMMENDED_PLUGIN_COPY, RECOMMENDED_PLUGIN_NAMES, type 
 import { enableSelectedRecommendations, getAvailableRecommendations, getClearedRecommendations, getInitialRecommendations, openRecommendedPluginSettings, openSettingsPanel } from "./pluginActions";
 import { getTutorialLanguage, markTutorialSeen, saveTutorialLanguage } from "./storage";
 
-const cl = classNameFactory("vc-illegalcord-tutorial-");
+const cl = classNameFactory("vc-RaadCord-tutorial-");
 
 interface TutorialModalProps {
     modalProps: RenderModalProps;
